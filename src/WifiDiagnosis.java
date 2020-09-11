@@ -8,7 +8,7 @@ public class WifiDiagnosis {
 		String userInput;
 		int fixed = 0;
 		
-		System.out.println("If you have a problem with internet connectivity, this WiFi Diagnosis might work.\n");
+		System.out.println("If you have a problem with internet connectivity, this WiFi Diagnosis tool might work.\n");
 		System.out.println("First Step: reboot your computer");
 		System.out.println("Are you able to connect with the internet? (yes or no)");
 		userInput = input.nextLine().toLowerCase();
